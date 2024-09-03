@@ -12,5 +12,5 @@ Model Selection and Training: The applicability of several machine learning algo
 into training, validation, and testing sets. Cross-validation and other optimization techniques help to ensure robustness and generalizability of hyperparameters.
 
 Testing: To test the predictive model with new customer data, preprocess the incoming data in accordance with the model’s specifications, use the trained model to forecast the costs of insurance for prospective 
-clients, and, if available, compare the forecasts with the actual expenses incurred.Random forest algorithms and multiple linear regression are used to forecast the cost of insurance.Validation on holdout datasets
+clients, and, if available, compare the forecasts with the actual expenses incurred.Random forest algorithms and multiple linear regression are used to forecast the cost of insurance.Validation on holdout datasets
 confirms that the model can generalize to new data, reliably forecasts insurance prices for prospective clients,and facilitates efficient risk assessment in the insurance sector.
